@@ -5,6 +5,7 @@
      [JAWABAN](https://github.com/rahajengdwi/CLoud2018/blob/master/Vagrant/1.md)
 2. Buat vagrant virtualbox dan lakukan provisioning install Phoenix Web Framework
 
+     [JAWABAN](https://github.com/rahajengdwi/CLoud2018/blob/master/Vagrant/2.md)
 3. Buat vagrant virtualbox dan lakukan provisioning install:
      - php
      - mysql
