@@ -1,7 +1,8 @@
 # TUGAS SESI LAB MODUL 1
 
 1. Buat vagrant virtualbox dan buat user 'awan' dengan password 'buaya kecil'
-
+     
+     [JAWABAN](https://github.com/rahajengdwi/CLoud2018/blob/master/Vagrant/1.md)
 2. Buat vagrant virtualbox dan lakukan provisioning install Phoenix Web Framework
 
 3. Buat vagrant virtualbox dan lakukan provisioning install:
