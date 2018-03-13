@@ -17,3 +17,5 @@ setelah melakukan provioning, clone https://github.com/fathoniadi/pelatihan-lara
 4. Buat vagrant virtualbox dan lakukan provisioning install:
       - Squid proxy
       - Bind9
+ 
+      [JAWABAN](https://github.com/rahajengdwi/CLoud2018/blob/master/Vagrant/4.md)
