@@ -1,3 +1,3 @@
 # Nama Kelompok :
-  1. Rahajeng Dwi P   5115100033
-  2. Wahyu Pujiono    5115100151  
+  1. 5115100033 Rahajeng Dwi P
+  2. 5115100151 Wahyu Pujiono 
